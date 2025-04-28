@@ -1,4 +1,4 @@
-# 🎓 Juan Sebastián Osorio Fierrl  
+# 🎓 Juan Sebastián Osorio Fierro
 ### 🚀 Perfil Académico | Desarrollo de Software  
 
 ![Banner](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
