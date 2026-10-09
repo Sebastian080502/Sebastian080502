@@ -1,3 +1,8 @@
+<!-- CONFIG
+FULL_NAME: Juan Sebastian Osorio Fierro
+GITHUB_USER: Sebastian080502
+-->
+
 # 🎓 Juan Sebastián Osorio Fierro
 ### 🚀 Perfil Académico | Desarrollo de Software  
 
